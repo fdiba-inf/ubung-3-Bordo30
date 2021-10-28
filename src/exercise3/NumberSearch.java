@@ -10,6 +10,7 @@ public class NumberSearch {
                 if(numberCounter == 10 || numberCounter == 20) {
                     System.out.println();
                 } else if (numberCounter==30) {
+                    System.out.print("\n");
                 }
             }
 
