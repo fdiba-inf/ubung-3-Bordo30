@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class NumberCounter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        System.out.print("Enter a positive or negative number: ");
 
         int number = 1;
         int positiveNumbers = 0;
